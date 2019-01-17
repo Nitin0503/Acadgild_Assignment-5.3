@@ -14,3 +14,4 @@ vec2 = c(rownames(mtcars[11:25,]))
 show an example.
 
 4. Introduce a separator when concatenating the strings
+Answer: Please find the R script attached.
